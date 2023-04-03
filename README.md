@@ -24,5 +24,5 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </br>
   </br>
-  <h1> 💻 Check Out My Recent Projects ⬇️ </h1>
+  <h1> 💻 Check Out My Work ⬇️ </h1>
 </div>
