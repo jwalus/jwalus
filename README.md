@@ -23,9 +23,5 @@
   <a href="https://www.linkedin.com/in/jacobwalus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </br>
   </br>
-  <h1> 💻 View My Portfolio ⬇️ </h1>
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139">
-  </br>
-  </br>
   <h1>💻 Check Out My Repos ⬇️</h1>
 </div>
