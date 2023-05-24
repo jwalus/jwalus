@@ -27,6 +27,5 @@
   <a href="https://www.linkedin.com/in/jacobwalus/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   </br>
   </br>
-  <h1>💻 Check Out My Repos ⬇️</h1><br />
-  <p>All Projects have links to them!</p>
+  <h1>💻 Check Out My Repos, all projects have links in the description! ⬇️</h1>
 </div>
